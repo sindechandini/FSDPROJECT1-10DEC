@@ -1,0 +1,11 @@
+git init
+git config —global user.name “sindechandini”
+git config —global user.email “CHANDINISINDE@GMAIL.COM”
+git  add.
+git commit -m “first project”
+git branch -M main
+git remove add origin
+git remote add origin https://github.com/sindechandini/FSDPROJECT1-10DEC.git
+git push -u origin main
+git checkout
+git log 
